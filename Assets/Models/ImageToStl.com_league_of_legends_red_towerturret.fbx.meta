@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 7109bae6b03a1454bbbf89d162461c5c
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'RightLowerLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: ImageToStl.com_league_of_legends_red_towerturret(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Light
+      parentName: ImageToStl.com_league_of_legends_red_towerturret(Clone)
+      position: {x: -4.0762453, y: 5.903862, z: -1.005454}
+      rotation: {x: 0.52327543, y: -0.34203392, z: 0.72694236, w: 0.28416622}
+      scale: {x: 100.00001, y: 100, z: 100}
+    - name: Camera
+      parentName: ImageToStl.com_league_of_legends_red_towerturret(Clone)
+      position: {x: -7.3588915, y: 4.958309, z: 6.925791}
+      rotation: {x: 0.09062847, y: 0.89379627, z: -0.20997298, w: 0.3857799}
+      scale: {x: 100, y: 100.00001, z: 99.99999}
+    - name: Sketchfab_model
+      parentName: ImageToStl.com_league_of_legends_red_towerturret(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 1, y: 0, z: -0, w: 0.0000000754979}
+      scale: {x: 100, y: 100.000015, z: 100.000015}
+    - name: Root
+      parentName: Sketchfab_model
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Plane.006
+      parentName: Root
+      position: {x: -0.0080874, y: -0.2252485, z: 0.2110123}
+      rotation: {x: -0.3826837, y: 0, z: -0, w: 0.92387944}
+      scale: {x: 8, y: 8, z: 7.999994}
+    - name: Plane.006_0
+      parentName: Plane.006
+      position: {x: 7.4505804e-11, y: 0.0000000011920929, z: 0.0000000011920929}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Plane.005
+      parentName: Root
+      position: {x: 0.19247219, y: -0.1846364, z: -0.14725849}
+      rotation: {x: 0.5400847, y: -0.34989753, z: 0.22849266, w: 0.7305281}
+      scale: {x: 8, y: 8.000001, z: 8.000003}
+    - name: Plane.005_0
+      parentName: Plane.005
+      position: {x: -0.0000000016391277, y: -0.0000000023841857, z: -0.0000000011920929}
+      rotation: {x: -0.000000007450581, y: 0.000000009313227, z: 0.000000009313227, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Plane.004
+      parentName: Root
+      position: {x: -0.1440178, y: -0.19191329, z: -0.12593259}
+      rotation: {x: 0.53570145, y: 0.34738585, z: -0.1819592, w: 0.74782217}
+      scale: {x: 7.9999995, y: 8, z: 8}
+    - name: Plane.004_0
+      parentName: Plane.004
+      position: {x: 0.0000000019371509, y: 0, z: 0.0000000011920929}
+      rotation: {x: 0.0000000074505815, y: 0.0000000055879354, z: -0.000000006519257, w: 1}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.9999999}
+    - name: Turret
+      parentName: Root
+      position: {x: -0, y: 0.0000046, z: 0}
+      rotation: {x: 0.6432476, y: 0.032162495, z: -0.7600638, w: 0.086608976}
+      scale: {x: 2.34375, y: 1.75781, z: 2.34375}
+    - name: Turret_0
+      parentName: Turret
+      position: {x: -0, y: 4.7240925e-20, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Turret_1
+      parentName: Turret
+      position: {x: -0, y: 4.7240925e-20, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Turret_2
+      parentName: Turret
+      position: {x: -0, y: 4.7240925e-20, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Turret_3
+      parentName: Turret
+      position: {x: -0, y: 4.7240925e-20, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Turret_4
+      parentName: Turret
+      position: {x: -0, y: 4.7240925e-20, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Turret_5
+      parentName: Turret
+      position: {x: -0, y: 4.7240925e-20, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Turret Cloth
+      parentName: Turret
+      position: {x: -0, y: -0.0435743, z: -0.0013828998}
+      rotation: {x: 1.1039695e-15, y: -0.70710665, z: 1.1039692e-15, w: 0.7071069}
+      scale: {x: 0.42667007, y: 0.56889, z: 0.42667007}
+    - name: Turret Cloth_0
+      parentName: Turret Cloth
+      position: {x: -2.9802322e-10, y: 4.3547846e-10, z: 0}
+      rotation: {x: 4.2351647e-22, y: 7.1054274e-15, z: -7.1054274e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

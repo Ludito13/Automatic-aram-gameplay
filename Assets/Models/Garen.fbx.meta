@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: 332f6a10f21cb98408eb1cbbc44a299b
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 2390086274965987859
+    second: skinned_mesh|garen_2013_attack_01.anm_skinned_mesh
+  - first:
+      74: 7023625001168952745
+    second: skinned_mesh|garen_2013_attack_02.anm_skinned_mesh
+  - first:
+      74: -2301550617123098198
+    second: skinned_mesh|garen_2013_channel.anm_skinned_mesh
+  - first:
+      74: -7864803831886548328
+    second: skinned_mesh|garen_2013_channelin.anm_skinned_mesh
+  - first:
+      74: 7116263702281715622
+    second: skinned_mesh|garen_2013_crit.anm_skinned_mesh
+  - first:
+      74: 5871679232017649276
+    second: skinned_mesh|garen_2013_dance.anm_skinned_mesh
+  - first:
+      74: -2506174290151925862
+    second: skinned_mesh|garen_2013_dance_loop.anm_skinned_mesh
+  - first:
+      74: 6232206628364375910
+    second: skinned_mesh|garen_2013_death.anm_skinned_mesh
+  - first:
+      74: 3042087346359880086
+    second: skinned_mesh|garen_2013_idle1.anm_skinned_mesh
+  - first:
+      74: -7226401399360092115
+    second: skinned_mesh|garen_2013_idle2.anm_skinned_mesh
+  - first:
+      74: -7210230154979776183
+    second: skinned_mesh|garen_2013_idle3.anm_skinned_mesh
+  - first:
+      74: -4016288894984589276
+    second: skinned_mesh|garen_2013_idle_leadin.anm_skinned_mesh
+  - first:
+      74: 706941077778105101
+    second: skinned_mesh|garen_2013_joke.anm_skinned_mesh
+  - first:
+      74: -8453600813015291521
+    second: skinned_mesh|garen_2013_joke_loop.anm_skinned_mesh
+  - first:
+      74: 2791388457347305585
+    second: skinned_mesh|garen_2013_laugh.anm_skinned_mesh
+  - first:
+      74: -1801516832581005806
+    second: skinned_mesh|garen_2013_recall.anm_skinned_mesh
+  - first:
+      74: 5894718949288606294
+    second: skinned_mesh|garen_2013_recall_leadout.anm_skinned_mesh
+  - first:
+      74: 7136229929531706488
+    second: skinned_mesh|garen_2013_recall_loop.anm_skinned_mesh
+  - first:
+      74: 4828476301949705695
+    second: skinned_mesh|garen_2013_respawn.anm_skinned_mesh
+  - first:
+      74: 6383281403900323405
+    second: skinned_mesh|garen_2013_run.anm_skinned_mesh
+  - first:
+      74: -1186003787562153405
+    second: skinned_mesh|garen_2013_run_fast.anm_skinned_mesh
+  - first:
+      74: -8040335858598106265
+    second: skinned_mesh|garen_2013_run_haste.anm_skinned_mesh
+  - first:
+      74: -3537688788442989557
+    second: skinned_mesh|garen_2013_run_spell1.anm_skinned_mesh
+  - first:
+      74: -1543694180715119164
+    second: skinned_mesh|garen_2013_spell1.anm_skinned_mesh
+  - first:
+      74: -6557557896827592368
+    second: skinned_mesh|garen_2013_spell4.anm_skinned_mesh
+  - first:
+      74: 2343080459246628052
+    second: skinned_mesh|garen_2013_taunt.anm_skinned_mesh
+  - first:
+      74: -5139866402792737342
+    second: skinned_mesh|garen_base_spell3_-180.anm_skinned_mesh
+  - first:
+      74: 4997887959613907297
+    second: skinned_mesh|garen_base_spell3_-90.anm_skinned_mesh
+  - first:
+      74: -2079698219070288426
+    second: skinned_mesh|garen_base_spell3_0.anm_skinned_mesh
+  - first:
+      74: 7869065696185871379
+    second: skinned_mesh|garen_base_spell3_180.anm_skinned_mesh
+  - first:
+      74: -1583197193762637058
+    second: skinned_mesh|garen_base_spell3_90.anm_skinned_mesh
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Inbetween bone rotation
+      in configuration does not match rotation in animation file:\n\t'L_KneeLower'
+      : rotation error = 38.931438 deg\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'skinned_mesh|garen_2013_attack_01.anm_skinned_mesh'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'R_Clavicle'
+      has translation animation that will be discarded.\n\t'R_Elbow' has translation
+      animation that will be discarded.\n\t'R_Hand' has translation animation that
+      will be discarded.\n\t'L_Elbow' has translation animation that will be discarded.\n\t'L_Hand'
+      has translation animation that will be discarded.\n\t'Pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'skinned_mesh|garen_2013_attack_02.anm_skinned_mesh' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Head' has translation animation that will
+      be discarded.\n\t'R_Clavicle' has translation animation that will be discarded.\n\t'R_Elbow'
+      has translation animation that will be discarded.\n\t'R_Hand' has translation
+      animation that will be discarded.\n\t'L_Clavicle' has translation animation
+      that will be discarded.\n\t'L_Elbow' has translation animation that will be
+      discarded.\n\t'L_Hand' has translation animation that will be discarded.\n\t'Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'skinned_mesh|garen_2013_channel.anm_skinned_mesh' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'L_Elbow' has translation animation that
+      will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_KneeLower' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\nClip 'skinned_mesh|garen_2013_channelin.anm_skinned_mesh'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'skinned_mesh|garen_2013_crit.anm_skinned_mesh' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Spine1' has translation animation that
+      will be discarded.\n\t'Spine2' has translation animation that will be discarded.\n\t'Spine3'
+      has translation animation that will be discarded.\n\t'R_Clavicle' has translation
+      animation that will be discarded.\n\t'R_Elbow' has translation animation that
+      will be discarded.\n\t'R_Hand' has translation animation that will be discarded.\n\t'L_Clavicle'
+      has translation animation that will be discarded.\n\t'L_Elbow' has translation
+      animation that will be discarded.\n\t'L_Hand' has translation animation that
+      will be discarded.\n\t'Pelvis' has translation animation that will be discarded.\n\t'Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_Hip'
+      has translation animation that will be discarded.\n\t'R_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'L_Hip'
+      has translation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'skinned_mesh|garen_2013_dance.anm_skinned_mesh' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'R_Clavicle' has translation animation that
+      will be discarded.\n\t'R_Index1' has translation animation that will be discarded.\n\t'R_Middle1'
+      has translation animation that will be discarded.\n\t'R_Ring1' has translation
+      animation that will be discarded.\n\t'R_Pinky1' has translation animation that
+      will be discarded.\n\t'Pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'skinned_mesh|garen_2013_dance_loop.anm_skinned_mesh' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'Pelvis' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'skinned_mesh|garen_2013_death.anm_skinned_mesh' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'R_Elbow' has translation animation that
+      will be discarded.\n\t'R_Hand' has translation animation that will be discarded.\n\t'L_Elbow'
+      has translation animation that will be discarded.\n\t'Pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeUpper'
+      has translation animation that will be discarded.\n\t'R_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'R_Foot'
+      has translation animation that will be discarded.\n\t'L_KneeUpper' has translation
+      animation that will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'L_Foot' has translation
+      animation that will be discarded.\n\nClip 'skinned_mesh|garen_2013_idle1.anm_skinned_mesh'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'R_Clavicle'
+      has translation animation that will be discarded.\n\t'Pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'skinned_mesh|garen_2013_idle2.anm_skinned_mesh' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'R_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'skinned_mesh|garen_2013_idle3.anm_skinned_mesh' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Spine2' has translation animation that
+      will be discarded.\n\t'R_Clavicle' has translation animation that will be discarded.\n\t'R_Shoulder'
+      has translation animation that will be discarded.\n\t'R_Ring1' has translation
+      animation that will be discarded.\n\t'R_Pinky1' has translation animation that
+      will be discarded.\n\t'Pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'skinned_mesh|garen_2013_idle_leadin.anm_skinned_mesh' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'R_Clavicle' has translation
+      animation that will be discarded.\n\t'R_Elbow' has translation animation that
+      will be discarded.\n\t'L_Clavicle' has translation animation that will be discarded.\n\t'L_Elbow'
+      has translation animation that will be discarded.\n\t'L_Hand' has translation
+      animation that will be discarded.\n\t'Pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'R_KneeUpper' has translation
+      animation that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'R_Foot' has translation
+      animation that will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\nClip 'skinned_mesh|garen_2013_joke.anm_skinned_mesh'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Head'
+      has translation animation that will be discarded.\n\t'R_Shoulder' has translation
+      animation that will be discarded.\n\t'R_Hand' has translation animation that
+      will be discarded.\n\t'R_Index1' has translation animation that will be discarded.\n\t'R_Middle1'
+      has translation animation that will be discarded.\n\t'R_Ring1' has translation
+      animation that will be discarded.\n\t'R_Pinky1' has translation animation that
+      will be discarded.\n\t'L_Clavicle' has translation animation that will be discarded.\n\t'L_Elbow'
+      has translation animation that will be discarded.\n\t'L_Hand' has translation
+      animation that will be discarded.\n\t'Pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'R_KneeUpper' has translation
+      animation that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'skinned_mesh|garen_2013_joke_loop.anm_skinned_mesh' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'L_Clavicle' has translation animation that
+      will be discarded.\n\t'L_Elbow' has translation animation that will be discarded.\n\t'L_Hand'
+      has translation animation that will be discarded.\n\t'R_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'skinned_mesh|garen_2013_laugh.anm_skinned_mesh' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Spine3' has translation animation that
+      will be discarded.\n\t'Pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'skinned_mesh|garen_2013_recall.anm_skinned_mesh' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Spine3' has translation animation that
+      will be discarded.\n\t'R_Clavicle' has translation animation that will be discarded.\n\t'L_Clavicle'
+      has translation animation that will be discarded.\n\t'Pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeUpper'
+      has translation animation that will be discarded.\n\t'R_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'R_Foot'
+      has translation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'skinned_mesh|garen_2013_recall_leadout.anm_skinned_mesh' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'Spine1' has translation animation
+      that will be discarded.\n\t'Spine2' has translation animation that will be
+      discarded.\n\t'Spine3' has translation animation that will be discarded.\n\t'Head'
+      has translation animation that will be discarded.\n\t'R_Clavicle' has translation
+      animation that will be discarded.\n\t'R_Elbow' has translation animation that
+      will be discarded.\n\t'R_Hand' has translation animation that will be discarded.\n\t'L_Clavicle'
+      has translation animation that will be discarded.\n\t'L_Shoulder' has translation
+      animation that will be discarded.\n\t'L_Elbow' has translation animation that
+      will be discarded.\n\t'Pelvis' has translation animation that will be discarded.\n\t'Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeUpper'
+      has translation animation that will be discarded.\n\t'R_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'R_Foot'
+      has translation animation that will be discarded.\n\t'L_KneeUpper' has translation
+      animation that will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'L_Foot' has translation
+      animation that will be discarded.\n\nClip 'skinned_mesh|garen_2013_recall_loop.anm_skinned_mesh'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'skinned_mesh|garen_2013_respawn.anm_skinned_mesh' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'R_Clavicle' has translation animation that
+      will be discarded.\n\t'L_Clavicle' has translation animation that will be discarded.\n\t'Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeUpper'
+      has translation animation that will be discarded.\n\t'R_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'R_Foot'
+      has translation animation that will be discarded.\n\t'L_KneeUpper' has translation
+      animation that will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'L_Foot' has translation
+      animation that will be discarded.\n\nClip 'skinned_mesh|garen_2013_run.anm_skinned_mesh'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine2'
+      has translation animation that will be discarded.\n\t'R_Clavicle' has translation
+      animation that will be discarded.\n\t'L_Clavicle' has translation animation
+      that will be discarded.\n\t'Pelvis' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_KneeUpper' has translation
+      animation that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'R_Foot' has translation
+      animation that will be discarded.\n\t'L_KneeUpper' has translation animation
+      that will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'L_Foot' has translation
+      animation that will be discarded.\n\nClip 'skinned_mesh|garen_2013_run_fast.anm_skinned_mesh'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine2'
+      has translation animation that will be discarded.\n\t'R_Clavicle' has translation
+      animation that will be discarded.\n\t'L_Clavicle' has translation animation
+      that will be discarded.\n\t'Pelvis' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_KneeUpper' has translation
+      animation that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'R_Foot' has translation
+      animation that will be discarded.\n\t'L_KneeUpper' has translation animation
+      that will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'L_Foot' has translation
+      animation that will be discarded.\n\nClip 'skinned_mesh|garen_2013_run_haste.anm_skinned_mesh'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine2'
+      has translation animation that will be discarded.\n\t'R_Clavicle' has translation
+      animation that will be discarded.\n\t'L_Clavicle' has translation animation
+      that will be discarded.\n\t'Pelvis' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_KneeUpper' has translation
+      animation that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'R_Foot' has translation
+      animation that will be discarded.\n\t'L_KneeUpper' has translation animation
+      that will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'L_Foot' has translation
+      animation that will be discarded.\n\nClip 'skinned_mesh|garen_2013_run_spell1.anm_skinned_mesh'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine2'
+      has translation animation that will be discarded.\n\t'R_Clavicle' has translation
+      animation that will be discarded.\n\t'L_Clavicle' has translation animation
+      that will be discarded.\n\t'Pelvis' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_KneeUpper' has translation
+      animation that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'R_Foot' has translation
+      animation that will be discarded.\n\t'L_KneeUpper' has translation animation
+      that will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'L_Foot' has translation
+      animation that will be discarded.\n\nClip 'skinned_mesh|garen_2013_spell1.anm_skinned_mesh'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'R_Shoulder'
+      has translation animation that will be discarded.\n\t'L_Shoulder' has translation
+      animation that will be discarded.\n\t'Pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'R_KneeUpper' has translation
+      animation that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'R_Foot' has translation
+      animation that will be discarded.\n\t'L_KneeUpper' has translation animation
+      that will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'L_Foot' has translation
+      animation that will be discarded.\n\nClip 'skinned_mesh|garen_2013_spell4.anm_skinned_mesh'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      has translation animation that will be discarded.\n\t'Spine2' has translation
+      animation that will be discarded.\n\t'Spine3' has translation animation that
+      will be discarded.\n\t'Head' has translation animation that will be discarded.\n\t'R_Clavicle'
+      has translation animation that will be discarded.\n\t'R_Elbow' has translation
+      animation that will be discarded.\n\t'R_Hand' has translation animation that
+      will be discarded.\n\t'L_Clavicle' has translation animation that will be discarded.\n\t'L_Elbow'
+      has translation animation that will be discarded.\n\t'L_Hand' has translation
+      animation that will be discarded.\n\t'Pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'R_KneeUpper' has translation
+      animation that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'R_Foot' has translation
+      animation that will be discarded.\n\t'L_KneeUpper' has translation animation
+      that will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'L_Foot' has translation
+      animation that will be discarded.\n\nClip 'skinned_mesh|garen_2013_taunt.anm_skinned_mesh'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'R_Clavicle'
+      has translation animation that will be discarded.\n\t'L_Clavicle' has translation
+      animation that will be discarded.\n\t'L_Thumb1' has translation animation that
+      will be discarded.\n\t'Pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_KneeUpper' has translation animation
+      that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'R_Foot' has translation
+      animation that will be discarded.\n\t'L_KneeUpper' has translation animation
+      that will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'L_Foot' has translation
+      animation that will be discarded.\n\nClip 'skinned_mesh|garen_base_spell3_-180.anm_skinned_mesh'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'skinned_mesh|garen_base_spell3_-90.anm_skinned_mesh' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'Pelvis' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\nClip 'skinned_mesh|garen_base_spell3_0.anm_skinned_mesh'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'skinned_mesh|garen_base_spell3_180.anm_skinned_mesh' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'Pelvis' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\nClip 'skinned_mesh|garen_base_spell3_90.anm_skinned_mesh'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Garen(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Light
+      parentName: Garen(Clone)
+      position: {x: -4.0762453, y: 5.903862, z: -1.005454}
+      rotation: {x: 0.52327543, y: -0.34203392, z: 0.72694236, w: 0.28416622}
+      scale: {x: 100.00001, y: 100, z: 100}
+    - name: Camera
+      parentName: Garen(Clone)
+      position: {x: -7.3588915, y: 4.958309, z: 6.925791}
+      rotation: {x: 0.09062847, y: 0.89379627, z: -0.20997298, w: 0.3857799}
+      scale: {x: 100, y: 100.00001, z: 99.99999}
+    - name: Icosphere
+      parentName: Garen(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: skinned_mesh
+      parentName: Garen(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Root
+      parentName: skinned_mesh
+      position: {x: 0.000119152064, y: 0.14710341, z: 1.1836193}
+      rotation: {x: -0.0004617565, y: -0.70710653, z: -0.70710677, w: -0.00046175648}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1.0000029}
+    - name: Spine1
+      parentName: Root
+      position: {x: 0.000009217262, y: 0.09665976, z: -0.0015939807}
+      rotation: {x: -0, y: 0.000000011641536, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000029}
+    - name: Spine2
+      parentName: Spine1
+      position: {x: 0.000009212494, y: 0.09684763, z: -0.02397613}
+      rotation: {x: 6.7762675e-17, y: -0.000000058207657, z: -0.000000005820768, w: 1}
+      scale: {x: 1.0000004, y: 1, z: 1.000003}
+    - name: Spine3
+      parentName: Spine2
+      position: {x: 0.000009227097, y: 0.10440544, z: -0.036826096}
+      rotation: {x: -1.9481739e-16, y: -0.000000013096727, z: -0.0000000058207643, w: 1}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1.0000024}
+    - name: Neck
+      parentName: Spine3
+      position: {x: 0.000009271409, y: 0.26832524, z: -0.019311113}
+      rotation: {x: -0.040692788, y: 0.0000000591397, z: -0.00030868262, w: 0.9991717}
+      scale: {x: 0.99999994, y: 1.0000019, z: 1.0000013}
+    - name: Head
+      parentName: Neck
+      position: {x: -0.000249814, y: 0.05061016, z: 0.032930885}
+      rotation: {x: -6.617445e-23, y: -0.0000000058207696, z: 3.63797e-10, w: 1}
+      scale: {x: 1.0000111, y: 1.0000007, z: 0.9999911}
+    - name: C_Buffbone_Glb_Head_Loc
+      parentName: Head
+      position: {x: 0.00000923872, y: 0.000007069483, z: 0.0000059914587}
+      rotation: {x: -6.352744e-18, y: 0.000000011641536, z: -0.0000000018189885, w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1.0000027}
+    - name: C_Buffbone_Glb_Head_Loc_end
+      parentName: C_Buffbone_Glb_Head_Loc
+      position: {x: -0, y: 0.05942108, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Clavicle
+      parentName: Spine3
+      position: {x: -0.07768186, y: 0.09994583, z: 0.033334985}
+      rotation: {x: 0.99733377, y: 0.015851868, z: -0.07123322, w: -0.000020653128}
+      scale: {x: 1.0000017, y: 1.0000005, z: 1.0000011}
+    - name: R_Shoulder
+      parentName: R_Clavicle
+      position: {x: -0.23000173, y: -0.02548214, z: 0.11420716}
+      rotation: {x: 0.12800632, y: 0.07184388, z: -0.010501035, w: 0.9891121}
+      scale: {x: 1.0000007, y: 0.9999996, z: 1.0000021}
+    - name: R_Elbow
+      parentName: R_Shoulder
+      position: {x: -0.4687287, y: 0.0000043225286, z: 0.000008068085}
+      rotation: {x: -0.0016749349, y: -0.03436019, z: 0.012191345, w: 0.9993338}
+      scale: {x: 1.0000111, y: 1.0000006, z: 0.99999267}
+    - name: R_Hand
+      parentName: R_Elbow
+      position: {x: -0.46166143, y: 0.000008077622, z: 0.000008950234}
+      rotation: {x: 0.016351195, y: 0.03139894, z: 0.11271326, w: 0.99299675}
+      scale: {x: 0.9999935, y: 1.000001, z: 1.0000083}
+    - name: R_Thumb1
+      parentName: R_Hand
+      position: {x: -0.055231895, y: 0.038123436, z: -0.08071474}
+      rotation: {x: -0.6618453, y: -0.028024413, z: 0.44068474, w: -0.6057824}
+      scale: {x: 0.9999993, y: 1.0000004, z: 1.0000032}
+    - name: R_Thumb2
+      parentName: R_Thumb1
+      position: {x: -0.096079744, y: 0.0000072765347, z: 0.0000061035153}
+      rotation: {x: 0.00004428623, y: 0.000001853331, z: 0.7039842, w: 0.71021557}
+      scale: {x: 1.0000029, y: 0.99999744, z: 1.0000033}
+    - name: R_Thumb2_end
+      parentName: R_Thumb2
+      position: {x: -0, y: 0.09608221, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Index1
+      parentName: R_Hand
+      position: {x: -0.16832918, y: 0.07896203, z: -0.054173183}
+      rotation: {x: 0.042406302, y: -0.0473771, z: -0.238623, w: 0.9690285}
+      scale: {x: 0.99999875, y: 1.0000017, z: 1.0000031}
+    - name: R_Index2
+      parentName: R_Index1
+      position: {x: -0.07063823, y: 0.000007038116, z: 0.0000061798096}
+      rotation: {x: 0.00006099415, y: -0.000002827494, z: 0.7039779, w: 0.7102219}
+      scale: {x: 1.0000032, y: 0.99999726, z: 1.0000036}
+    - name: R_Index2_end
+      parentName: R_Index2
+      position: {x: -0, y: 0.070639454, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Middle1
+      parentName: R_Hand
+      position: {x: -0.17103869, y: 0.07450251, z: 0.004300003}
+      rotation: {x: 0.018912071, y: 0.06465078, z: -0.16727002, w: 0.9836073}
+      scale: {x: 0.99999785, y: 1.0000026, z: 1.0000029}
+    - name: R_Middle2
+      parentName: R_Middle1
+      position: {x: -0.07346534, y: 0.0000072288512, z: 0.0000059604645}
+      rotation: {x: 0.00005631985, y: -0.0000023059538, z: 0.703977, w: 0.71022284}
+      scale: {x: 1.0000033, y: 0.99999726, z: 1.0000032}
+    - name: R_Middle2_end
+      parentName: R_Middle2
+      position: {x: -0, y: 0.073461205, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Ring1
+      parentName: R_Hand
+      position: {x: -0.17746992, y: 0.061922166, z: 0.055312354}
+      rotation: {x: -0.044888377, y: 0.09879554, z: -0.22457062, w: 0.96839684}
+      scale: {x: 0.99999774, y: 1.0000021, z: 1.0000033}
+    - name: R_Ring2
+      parentName: R_Ring1
+      position: {x: -0.06792928, y: 0.000007305145, z: 0.000005931854}
+      rotation: {x: 0.00006217136, y: -0.0000022128222, z: 0.70397455, w: 0.71022534}
+      scale: {x: 1.0000033, y: 0.99999714, z: 1.0000032}
+    - name: R_Ring2_end
+      parentName: R_Ring2
+      position: {x: -0, y: 0.06792518, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Pinky1
+      parentName: R_Hand
+      position: {x: -0.15297087, y: 0.09252815, z: 0.100194916}
+      rotation: {x: -0.03150992, y: 0.0925234, z: -0.22588035, w: 0.96923923}
+      scale: {x: 0.99999857, y: 1.000002, z: 1.0000033}
+    - name: R_Pinky2
+      parentName: R_Pinky1
+      position: {x: -0.05775275, y: 0.000007133484, z: 0.000005846023}
+      rotation: {x: 0.00007289271, y: -0.0000011995428, z: 0.70396787, w: 0.7102319}
+      scale: {x: 1.0000023, y: 0.99999833, z: 1.000003}
+    - name: R_Pinky2_end
+      parentName: R_Pinky2
+      position: {x: -0, y: 0.057757787, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Weapon
+      parentName: R_Hand
+      position: {x: -0.096928254, y: 0.073799536, z: 0.040223245}
+      rotation: {x: -0.061618116, y: -0.025770186, z: -0.8614913, w: 0.50336057}
+      scale: {x: 0.99999917, y: 1.0000105, z: 0.9999944}
+    - name: Weapon_end
+      parentName: Weapon
+      position: {x: -0, y: 0.0041874694, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Buffbone_Glb_Weapon_1
+      parentName: R_Hand
+      position: {x: 0.000009269714, y: 0.0000072145463, z: 0.000006113052}
+      rotation: {x: -0.0001298273, y: 0.00009954718, z: 0.7059085, w: 0.7083031}
+      scale: {x: 0.9999998, y: 0.99999976, z: 1.0000026}
+    - name: Buffbone_Glb_Weapon_1_end
+      parentName: Buffbone_Glb_Weapon_1
+      position: {x: -0, y: 0.004187467, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Buffbone_Glb_Hand_Loc
+      parentName: R_Hand
+      position: {x: 0.000009269714, y: 0.0000072145463, z: 0.000006113052}
+      rotation: {x: -0.0001298273, y: 0.00009954718, z: 0.7059085, w: 0.7083031}
+      scale: {x: 0.9999998, y: 0.99999976, z: 1.0000026}
+    - name: R_Buffbone_Glb_Hand_Loc_end
+      parentName: R_Buffbone_Glb_Hand_Loc
+      position: {x: -0, y: 0.004187467, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Shoulde_Pad
+      parentName: R_Clavicle
+      position: {x: -0.26503086, y: -0.12964542, z: 0.14512794}
+      rotation: {x: 0.08114488, y: 0.049354512, z: -0.41352606, w: 0.90552515}
+      scale: {x: 1.0000007, y: 0.9999999, z: 1.0000032}
+    - name: R_Shoulde_Pad_end
+      parentName: R_Shoulde_Pad
+      position: {x: -0, y: 0.2558374, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Clavicle
+      parentName: Spine3
+      position: {x: 0.050703973, y: 0.07849357, z: 0.031785607}
+      rotation: {x: -0.000020387053, y: -0.06986683, z: -0.01561131, w: 0.9974342}
+      scale: {x: 1.0000038, y: 1.0000001, z: 0.9999996}
+    - name: L_Shoulder
+      parentName: L_Clavicle
+      position: {x: 0.23002012, y: 0.025449408, z: -0.11419535}
+      rotation: {x: 0.12790906, y: 0.07176816, z: -0.01074404, w: 0.9891275}
+      scale: {x: 1.0000068, y: 0.9999997, z: 0.9999974}
+    - name: L_Elbow
+      parentName: L_Shoulder
+      position: {x: 0.38818213, y: 0.0000049233436, z: 0.0000057029724}
+      rotation: {x: -0.0016781535, y: -0.03436603, z: 0.012192218, w: 0.99933356}
+      scale: {x: 1.0000005, y: 0.99999994, z: 1.000002}
+    - name: L_Hand
+      parentName: L_Elbow
+      position: {x: 0.3814448, y: 0.000008115769, z: 0.0000030755996}
+      rotation: {x: 0.016476996, y: -0.000010743736, z: 0.000008971798, w: 0.9998643}
+      scale: {x: 1, y: 1.0000001, z: 1.0000027}
+    - name: L_Thumb1
+      parentName: L_Hand
+      position: {x: 0.0552264, y: -0.038109664, z: 0.08072693}
+      rotation: {x: 0.651964, y: 0.104014374, z: -0.3588551, w: 0.6598084}
+      scale: {x: 1.000003, y: 0.999999, z: 1.0000008}
+    - name: L_Thumb2
+      parentName: L_Thumb1
+      position: {x: 0.09607482, y: 0.000007491112, z: 0.0000058865544}
+      rotation: {x: 0.000041052685, y: -0.0000022556624, z: -0.70398676, w: 0.71021324}
+      scale: {x: 1.000001, y: 0.9999998, z: 1.000003}
+    - name: L_Thumb2_end
+      parentName: L_Thumb2
+      position: {x: -0, y: 0.09608171, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Index1
+      parentName: L_Hand
+      position: {x: 0.17949003, y: -0.019239845, z: 0.059018917}
+      rotation: {x: 0.04530025, y: -0.019811956, z: -0.14162593, w: 0.9886847}
+      scale: {x: 1.0000029, y: 0.9999976, z: 1.0000026}
+    - name: L_Index2
+      parentName: L_Index1
+      position: {x: 0.07063317, y: 0.000007343292, z: 0.0000057792663}
+      rotation: {x: 0.000056089808, y: 0.0000029914067, z: -0.7039716, w: 0.7102281}
+      scale: {x: 0.9999993, y: 1.0000011, z: 1.0000033}
+    - name: L_Index2_end
+      parentName: L_Index2
+      position: {x: -0, y: 0.070639215, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Middle1
+      parentName: L_Hand
+      position: {x: 0.17350654, y: -0.02327673, z: -0.0015426254}
+      rotation: {x: 0.017826987, y: 0.045458276, z: -0.13585038, w: 0.9895254}
+      scale: {x: 1.0000004, y: 0.9999993, z: 1.0000038}
+    - name: L_Middle2
+      parentName: L_Middle1
+      position: {x: 0.07346011, y: 0.000007381439, z: 0.000005931854}
+      rotation: {x: 0.000056100056, y: 0.0000030286599, z: -0.7039746, w: 0.7102252}
+      scale: {x: 0.9999995, y: 1.0000005, z: 1.0000031}
+    - name: L_Middle2_end
+      parentName: L_Middle2
+      position: {x: -0, y: 0.073460884, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Ring1
+      parentName: L_Hand
+      position: {x: 0.16040921, y: -0.01698655, z: -0.057338227}
+      rotation: {x: -0.038426645, y: 0.056891844, z: -0.12207991, w: 0.99014306}
+      scale: {x: 0.99999714, y: 1.0000015, z: 1.0000038}
+    - name: L_Ring2
+      parentName: L_Ring1
+      position: {x: 0.06792396, y: 0.0000070810315, z: 0.0000059127806}
+      rotation: {x: 0.0000605229, y: 0.0000024251628, z: -0.7039752, w: 0.71022457}
+      scale: {x: 1.000001, y: 0.9999998, z: 1.0000036}
+    - name: L_Ring2_end
+      parentName: L_Ring2
+      position: {x: -0, y: 0.06792453, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Pinky1
+      parentName: L_Hand
+      position: {x: 0.13178742, y: -0.036560908, z: -0.101041526}
+      rotation: {x: -0.016182128, y: 0.058138315, z: -0.11587465, w: 0.9914289}
+      scale: {x: 0.999996, y: 1.0000031, z: 1.0000046}
+    - name: L_Pinky2
+      parentName: L_Pinky1
+      position: {x: 0.057747383, y: 0.000006914139, z: 0.000006227493}
+      rotation: {x: 0.00007421148, y: 0.000002074986, z: -0.70396775, w: 0.710232}
+      scale: {x: 1.0000011, y: 0.9999993, z: 1.0000033}
+    - name: L_Pinky2_end
+      parentName: L_Pinky2
+      position: {x: -0, y: 0.05775726, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Buffbone_Glb_Hand_Loc
+      parentName: L_Hand
+      position: {x: 0.00000914216, y: 0.0000070858, z: 0.0000060367584}
+      rotation: {x: 0.7083059, y: 0.7059057, z: -0.000099351615, w: 0.00012984578}
+      scale: {x: 0.9999996, y: 0.99999994, z: 1.0000025}
+    - name: L_Buffbone_Glb_Hand_Loc_end
+      parentName: L_Buffbone_Glb_Hand_Loc
+      position: {x: -0, y: 0.0041872105, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Shoulde_Pad
+      parentName: L_Clavicle
+      position: {x: 0.27675697, y: 0.22382413, z: -0.11242735}
+      rotation: {x: 0.081135295, y: 0.049356494, z: -0.41352177, w: 0.90552795}
+      scale: {x: 1.0000021, y: 0.9999984, z: 1.0000036}
+    - name: L_Shoulde_Pad_end
+      parentName: L_Shoulde_Pad
+      position: {x: -0, y: 0.25583878, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Scarf1
+      parentName: Spine3
+      position: {x: 0.15668707, y: 0.3276123, z: -0.35602045}
+      rotation: {x: 0.00000005137489, y: 0.70693016, z: 0.00000003803618, w: 0.70728344}
+      scale: {x: 0.9999888, y: 1.0000114, z: 1.0000029}
+    - name: Scarf2
+      parentName: Scarf1
+      position: {x: 0.38999596, y: -0.0053910296, z: 0.0072475765}
+      rotation: {x: -0.000000042157257, y: 0.0000018775461, z: -0.000000042136346, w: 1}
+      scale: {x: 1.0000007, y: 0.9999977, z: 1.0000046}
+    - name: Scarf3
+      parentName: Scarf2
+      position: {x: 0.3440596, y: 0.0029644738, z: 0.034784507}
+      rotation: {x: 0.00000006323595, y: -0, z: 0.00000006320458, w: 1}
+      scale: {x: 1.000001, y: 0.9999993, z: 1.0000033}
+    - name: Scarf3_end
+      parentName: Scarf3
+      position: {x: -0, y: 0.3202417, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C_Buffbone_Glb_Chest_Loc
+      parentName: Spine3
+      position: {x: 0.000009250417, y: 0.0000072850285, z: 0.000005960166}
+      rotation: {x: 7.0303745e-16, y: -7.2761e-10, z: 0.000000011641532, w: 1}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.000003}
+    - name: C_Buffbone_Glb_Chest_Loc_end
+      parentName: C_Buffbone_Glb_Chest_Loc
+      position: {x: -0, y: 0.093679346, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pelvis
+      parentName: Root
+      position: {x: 0.0006923604, y: -0.095800586, z: 0.014169531}
+      rotation: {x: -0, y: 0.000000046566143, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1.0000027}
+    - name: R_Hip
+      parentName: Pelvis
+      position: {x: -0.14830591, y: -0.08223448, z: -0.01013257}
+      rotation: {x: -0.4726914, y: -0.52586776, z: 0.4634394, w: 0.53408784}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000032}
+    - name: R_KneeUpper
+      parentName: R_Hip
+      position: {x: -0.49610186, y: 0.000007352829, z: 0.000005574226}
+      rotation: {x: 0.000058561556, y: 0.0007820128, z: 0.008364736, w: 0.9999647}
+      scale: {x: 1, y: 1.0000006, z: 1.0000032}
+    - name: R_KneeLower
+      parentName: R_KneeUpper
+      position: {x: 0.000009269714, y: 0.0000072479247, z: 0.000005893707}
+      rotation: {x: 0.0000022053716, y: 0.00000035762778, z: -0.037151363, w: 0.99930966}
+      scale: {x: 1.0000026, y: 0.9999975, z: 1.0000031}
+    - name: R_Foot
+      parentName: R_KneeLower
+      position: {x: -0.40010712, y: 0.00000775218, z: 0.0000056385993}
+      rotation: {x: 0.98790306, y: 0.090842254, z: -0.0019012426, w: -0.12566538}
+      scale: {x: 1.000001, y: 0.9999995, z: 1.0000023}
+    - name: R_Toe
+      parentName: R_Foot
+      position: {x: -0.08972612, y: -0.16979891, z: 0.000012650489}
+      rotation: {x: -0.0011979268, y: 0.0006802511, z: 0.4661021, w: 0.88472986}
+      scale: {x: 1.0000008, y: 0.99999994, z: 1.0000021}
+    - name: R_Toe_end
+      parentName: R_Toe
+      position: {x: -0, y: 0.00015871016, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Buffbone_Glb_Foot_Loc
+      parentName: R_Foot
+      position: {x: 0.000009220838, y: 0.000007178783, z: 0.000005905628}
+      rotation: {x: -0.49995753, y: -0.49979064, z: -0.50029045, w: 0.49996126}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000031}
+    - name: R_Buffbone_Glb_Foot_Loc_end
+      parentName: R_Buffbone_Glb_Foot_Loc
+      position: {x: -0, y: 0.00015871048, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Hip
+      parentName: Pelvis
+      position: {x: 0.14717002, y: -0.08425289, z: -0.010132574}
+      rotation: {x: 0.5340845, y: -0.46345106, z: -0.5258638, w: 0.4726881}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.000003}
+    - name: L_KneeUpper
+      parentName: L_Hip
+      position: {x: 0.4960969, y: 0.000006211996, z: 0.0000068324803}
+      rotation: {x: 0.000058174137, y: 0.00078524655, z: 0.008273766, w: 0.9999655}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1.0000032}
+    - name: L_KneeLower
+      parentName: L_KneeUpper
+      position: {x: 0.0000092747805, y: 0.000007209778, z: 0.000005905628}
+      rotation: {x: 0.0000023377793, y: 0.00000037471713, z: -0.037155297, w: 0.9993095}
+      scale: {x: 1.0000027, y: 0.9999974, z: 1.0000029}
+    - name: L_Foot
+      parentName: L_KneeLower
+      position: {x: 0.40010193, y: 0.000007836818, z: 0.000006198883}
+      rotation: {x: -0.98805207, y: -0.091115974, z: 0.001766893, w: 0.12428975}
+      scale: {x: 1.0000015, y: 1.0000005, z: 1.0000008}
+    - name: L_Toe
+      parentName: L_Foot
+      position: {x: 0.08965711, y: 0.16980016, z: -0.0000090742105}
+      rotation: {x: -0.0012196711, y: 0.00069027575, z: 0.46633852, w: 0.8846053}
+      scale: {x: 1.0000013, y: 0.9999992, z: 1.000003}
+    - name: L_Toe_end
+      parentName: L_Toe
+      position: {x: -0, y: 0.000158755, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Buffbone_Glb_Foot_Loc
+      parentName: L_Foot
+      position: {x: 0.000009231567, y: 0.000007257461, z: 0.0000059509275}
+      rotation: {x: -0.50004345, y: 0.5001842, z: -0.499896, w: -0.4998764}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000029}
+    - name: L_Buffbone_Glb_Foot_Loc_end
+      parentName: L_Buffbone_Glb_Foot_Loc
+      position: {x: -0, y: 0.00015874862, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cloth_Front1
+      parentName: Pelvis
+      position: {x: -0.00015568017, y: -0.024214735, z: 0.16665125}
+      rotation: {x: 0.46136016, y: -0.5358458, z: -0.4613586, w: 0.53587717}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000033}
+    - name: Cloth_Front2
+      parentName: Cloth_Front1
+      position: {x: 0.28069127, y: 0.0000078690055, z: 0.0000068891045}
+      rotation: {x: 0.0005299598, y: 0.0004254877, z: -0.09417379, w: 0.9955555}
+      scale: {x: 1.0000004, y: 0.99999976, z: 1.0000033}
+    - name: Cloth_Front2_end
+      parentName: Cloth_Front2
+      position: {x: -0, y: 0.28103718, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cloth_Back1
+      parentName: Pelvis
+      position: {x: -0.00029701233, y: -0.044024076, z: -0.24835372}
+      rotation: {x: 0.5775436, y: -0.40843683, z: -0.5768901, w: 0.40843678}
+      scale: {x: 1.0000007, y: 0.9999985, z: 1.0000039}
+    - name: Cloth_Back2
+      parentName: Cloth_Back1
+      position: {x: 0.23718143, y: 0.0000074005125, z: 0.0000059843064}
+      rotation: {x: -0.0002847612, y: -0.00032535195, z: 0.09749907, w: 0.99523556}
+      scale: {x: 1.0000006, y: 0.9999993, z: 1.0000027}
+    - name: Cloth_Back3
+      parentName: Cloth_Back2
+      position: {x: 0.23685162, y: 0.0000072765347, z: 0.0000056815147}
+      rotation: {x: 0.0005128594, y: 0.0005955889, z: 0.057819948, w: 0.9983268}
+      scale: {x: 1.0000004, y: 1, z: 1.000003}
+    - name: Cloth_Back3_end
+      parentName: Cloth_Back3
+      position: {x: -0, y: 0.23637132, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Buffbone_Glb_Channel_Loc
+      parentName: skinned_mesh
+      position: {x: 0.000009231566, y: -0.7441249, z: 1.4562272}
+      rotation: {x: -3.241694e-39, y: -0, z: 1, w: 0}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1.0000026}
+    - name: Buffbone_Glb_Channel_Loc_end
+      parentName: Buffbone_Glb_Channel_Loc
+      position: {x: -0, y: 1.6353406, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Buffbone_Glb_Ground_Loc
+      parentName: skinned_mesh
+      position: {x: 0.000009231567, y: 0.032295797, z: 0.0000071907034}
+      rotation: {x: 0.000000053383495, y: 0.7071068, z: 0.7071068, w: 0.000000053384817}
+      scale: {x: 0.99999976, y: 0.9999998, z: 1.0000026}
+    - name: Buffbone_Glb_Ground_Loc_end
+      parentName: Buffbone_Glb_Ground_Loc
+      position: {x: -0, y: 0.03230011, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C_Buffbone_Glb_Center_Loc
+      parentName: skinned_mesh
+      position: {x: 0.000009231567, y: 0.032295797, z: 1.1508726}
+      rotation: {x: 0.000000053383495, y: 0.7071068, z: 0.7071068, w: 0.000000053384817}
+      scale: {x: 0.99999976, y: 0.9999998, z: 1.0000026}
+    - name: C_Buffbone_Glb_Center_Loc_end
+      parentName: C_Buffbone_Glb_Center_Loc
+      position: {x: -0, y: 1.1513301, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C_Buffbone_Glb_Layout_Loc
+      parentName: skinned_mesh
+      position: {x: 0.000009231567, y: 0.061582927, z: 0.000007190702}
+      rotation: {x: -0.00000005338442, y: 0.7071068, z: 0.7071068, w: -0.000000053383893}
+      scale: {x: 0.99999976, y: 0.9999995, z: 1.0000025}
+    - name: C_Buffbone_Glb_Layout_Loc_end
+      parentName: C_Buffbone_Glb_Layout_Loc
+      position: {x: -0, y: 0.061580032, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C_Buffbone_Glb_Overhead_Loc
+      parentName: skinned_mesh
+      position: {x: 0.000009231569, y: 0.016768036, z: 2.7773495}
+      rotation: {x: 0.000000053383495, y: 0.7071068, z: 0.7071068, w: 0.000000053384817}
+      scale: {x: 0.99999976, y: 0.9999998, z: 1.0000026}
+    - name: C_Buffbone_Glb_Overhead_Loc_end
+      parentName: C_Buffbone_Glb_Overhead_Loc
+      position: {x: -0, y: 2.7774005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0
+      parentName: Garen(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 00554f0d748c52b41a4527ea6ac8db1e
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 5611388182713452759
+    second: skinned_mesh|lulu_attack1.anm_skinned_mesh
+  - first:
+      74: 9089018669921972778
+    second: skinned_mesh|lulu_attack2.anm_skinned_mesh
+  - first:
+      74: 6124607771014619344
+    second: skinned_mesh|lulu_channel.anm_skinned_mesh
+  - first:
+      74: 6103962835109788979
+    second: skinned_mesh|lulu_channel_windup.anm_skinned_mesh
+  - first:
+      74: 727892957444305772
+    second: skinned_mesh|lulu_dance.anm_skinned_mesh
+  - first:
+      74: 3248566764367272423
+    second: skinned_mesh|lulu_death.anm_skinned_mesh
+  - first:
+      74: 2746071927086756043
+    second: skinned_mesh|lulu_idle0.anm_skinned_mesh
+  - first:
+      74: -8993401124880903415
+    second: skinned_mesh|lulu_idle1.anm_skinned_mesh
+  - first:
+      74: 2940455596296991287
+    second: skinned_mesh|lulu_idle2.anm_skinned_mesh
+  - first:
+      74: 2787311837720494427
+    second: skinned_mesh|lulu_idle3.anm_skinned_mesh
+  - first:
+      74: -7913606780596062800
+    second: skinned_mesh|lulu_idle4.anm_skinned_mesh
+  - first:
+      74: 3117792936796001317
+    second: skinned_mesh|lulu_joke.anm_skinned_mesh
+  - first:
+      74: -5309933071577601005
+    second: skinned_mesh|lulu_laugh.anm_skinned_mesh
+  - first:
+      74: -3214504277909259247
+    second: skinned_mesh|lulu_run.anm_skinned_mesh
+  - first:
+      74: -9073011643283157705
+    second: skinned_mesh|lulu_run2.anm_skinned_mesh
+  - first:
+      74: -5634597985010810154
+    second: skinned_mesh|lulu_run3.anm_skinned_mesh
+  - first:
+      74: 4029979419256011487
+    second: skinned_mesh|lulu_spell1.anm_skinned_mesh
+  - first:
+      74: 3698460203778622701
+    second: skinned_mesh|lulu_spell2.anm_skinned_mesh
+  - first:
+      74: -8127320032580605991
+    second: skinned_mesh|lulu_spell3.anm_skinned_mesh
+  - first:
+      74: 5622966164838295137
+    second: skinned_mesh|lulu_spell4.anm_skinned_mesh
+  - first:
+      74: 3459719820993151088
+    second: skinned_mesh|lulu_taunt.anm_skinned_mesh
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
